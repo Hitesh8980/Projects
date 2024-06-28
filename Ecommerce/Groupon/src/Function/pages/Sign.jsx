@@ -13,6 +13,7 @@ import {
   Spacer,
   Center,
   Divider,
+  Box,
 } from "@chakra-ui/react";
 import { FaFacebook, FaGoogle } from "react-icons/fa";
 import { useState } from "react";
@@ -26,6 +27,10 @@ function SignUpForm() {
   return (
     <Box>
     <Navbar/>
+    <Box display="flex"
+      justifyContent="center"
+      alignItems="center"
+      boxShadow={'lg'}>
     <Flex
       direction="column"
       alignItems="center"
@@ -33,6 +38,10 @@ function SignUpForm() {
       bg={bg}
       minH="60vh"
       p={10}
+      boxShadow={'lg'}
+      border='1px solid black'
+      w={'50%'}
+      m={50}
     >
       <Heading as="h1" fontSize="48px" mb={8} textAlign="center" fontWeight='bold'>
         Sign in to score great deals!
@@ -45,6 +54,9 @@ function SignUpForm() {
             flex="1"
             borderRadius="md"
             _active={{ bg: "green.500" }}
+            _hover={{
+              borderBottom: '1px solid green',
+            }}
             onClick={() => console.log("I have an account")}
           >
             I HAVE AN ACCOUNT
@@ -56,6 +68,9 @@ function SignUpForm() {
             flex="1"
             borderRadius="md"
             _active={{ bg: "green.500" }}
+            _hover={{
+              borderBottom: '1px solid green',
+            }}
             onClick={() => console.log("I'm a new customer")}
           >
             I'M A NEW CUSTOMER
@@ -67,6 +82,9 @@ function SignUpForm() {
           borderRadius="md"
           size="lg"
           boxShadow='sm'
+          border='1px solid black'
+          pl={180}
+          
         />
         <HStack spacing={4} >
           <Input
@@ -75,6 +93,9 @@ function SignUpForm() {
             borderRadius="md"
             size="lg"
             boxShadow='sm'
+            pl={40}
+            w='100%'
+            border='1px solid black'
             
           />
           <IconButton
@@ -145,6 +166,7 @@ function SignUpForm() {
         </HStack>
       </Stack>
     </Flex>
+    </Box>
     </Box>
   );
 }
