@@ -1,0 +1,364 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "title": "Sunlit Cyber Monday!",
+      "image": "https://img.grouponcdn.com/metro_draft_service/3GqzTohMv5de2sk3JPdDrQDqwiTj/3G-700x420/v1/c349x211.webp",
+      "description": "Up to 10% Off Selected Deals!",
+      "price": "$50",
+      "rating": "★★★★★",
+      "bought": 1000
+    },
+    {
+      "id": 2,
+      "title": "Adventure Calls!",
+      "image": "https://img.grouponcdn.com/deal/3E56U2fxPQ3kQWGBg3RkZ2Jn461B/3E-2048x1229/v1/c349x211.webp",
+      "description": "A world of parks, just a click away!",
+      "price": "$80",
+      "rating": "★★★★",
+      "bought": 800
+    },
+    {
+      "id": 3,
+      "title": "Ultimate Hair Care Deal!",
+      "image": "https://img.grouponcdn.com/metro_draft_service/Ex4uN5hc6tiL9t9enMf3vSZgSNr/Ex-3021x2266/v1/c349x211.webp",
+      "description": "Save 40% on Pureology Shampoo and Conditioner",
+      "price": "$35",
+      "rating": "★★★★★",
+      "bought": 1200
+    },
+    {
+      "id": 4,
+      "title": "Fine Dining Experience",
+      "image": "https://img.grouponcdn.com/deal/2PWLjQqNANuxh64VFbFPKTJUcZYV/2P-1440x864/v1/c349x211.webp",
+      "description": "Enjoy a gourmet 3-course meal at a top-rated restaurant",
+      "price": "$120",
+      "rating": "★★★★★",
+      "bought": 500
+    },
+    {
+      "id": 5,
+      "title": "Weekend Getaway Package",
+      "image": "https://img.grouponcdn.com/deal/zeWyG6HiFyHSuHFpbzUPkE4xF1u/ze-960x576/v1/c349x211.webp",
+      "description": "Escape for a relaxing weekend at a luxury resort",
+      "price": "$400",
+      "rating": "★★★★★",
+      "bought": 300
+    },
+    {
+      "id": 6,
+      "title": "Fitness Membership",
+      "image": "https://img.grouponcdn.com/metro_draft_service/3EakMNw5unf8PkEewuzUKPFQQudq/3E-1024x683/v1/c349x211.webp",
+      "description": "One-month unlimited access to a state-of-the-art gym",
+      "price": "$60",
+      "rating": "★★★★",
+      "bought": 700
+    },
+    {
+      "id": 7,
+      "title": "Cooking Class for Two",
+      "image": "https://img.grouponcdn.com/deal/3FrLdh1xEFaexPEqSTfffZQUqDhT/3F-2000x1333/v1/c349x211.webp",
+      "description": "Learn to cook gourmet dishes with a professional chef",
+      "price": "$150",
+      "rating": "★★★★★",
+      "bought": 400
+    },
+    {
+      "id": 8,
+      "title": "Photography Workshop",
+      "image": "https://img.grouponcdn.com/metro_draft_service/3AgVTR46KV2dt83pYEfFv6xamQxg/3A-2595x1557/v1/c349x211.webp",
+      "description": "Master your photography skills in a weekend workshop",
+      "price": "$200",
+      "rating": "★★★★",
+      "bought": 600
+    },
+    {
+      "id": 9,
+      "title": "Spa Day Package",
+      "image": "https://img.grouponcdn.com/deal/3jny1w5LDzadaeEL28Ts/iU-801x481/v1/c349x211.webp",
+      "description": "Indulge in a full day of spa treatments and relaxation",
+      "price": "$180",
+      "rating": "★★★★★",
+      "bought": 450
+    },
+    {
+      "id": 10,
+      "title": "Art Gallery Tour",
+      "image": "https://img.grouponcdn.com/pwa_test/3ss9c6VZiPejtqZ3z8SBbE3FNtks/3s-720x480/v1/c349x211.webp",
+      "description": "Guided tour of the city's best art galleries",
+      "price": "$30",
+      "rating": "★★★★",
+      "bought": 900
+    },
+    {
+      "id": 11,
+      "title": "Wine Tasting Experience",
+      "image": "https://img.grouponcdn.com/deal/gq5yu1QgHKhMYtTEYAo/E2-2048x1228/v1/c349x211.webp",
+      "description": "Sample fine wines at a local vineyard",
+      "price": "$75",
+      "rating": "★★★★★",
+      "bought": 250
+    },
+    {
+      "id": 12,
+      "title": "Sushi Making Class",
+      "image": "https://img.grouponcdn.com/deal/2m1gkK2bh46Bte48AjCh2y7LSvYR/2m-2000x1333/v1/c349x211.webp",
+      "description": "Learn the art of sushi making from a sushi master",
+      "price": "$100",
+      "rating": "★★★★★",
+      "bought": 350
+    },
+    {
+      "id": 13,
+      "title": "Outdoor Adventure Package",
+      "image": "https://img.grouponcdn.com/iam_raw/hDhmfKyJFq86D713rfFE/et-3381x2500/v1/c349x211.webp",
+      "description": "Exciting outdoor activities including zip-lining and rock climbing",
+      "price": "$250",
+      "rating": "★★★★",
+      "bought": 150
+    },
+    {
+      "id": 14,
+      "title": "Concert Tickets",
+      "image": "https://img.grouponcdn.com/metro_draft_service/3pGb6LkibCJHjx2QBB7F5txszHf1/3p-800x480/v1/c349x211.webp",
+      "description": "Tickets to see your favorite band live in concert",
+      "price": "$90",
+      "rating": "★★★★",
+      "bought": 800
+    },
+    {
+      "id": 15,
+      "title": "Luxury Car Rental",
+      "image": "https://img.grouponcdn.com/metro_draft_service/o6km2X9JrCDeSzEeNGNhqUEt65G/o6-1418x851/v1/c349x211.webp",
+      "description": "Drive a luxury car for a day",
+      "price": "$300",
+      "rating": "★★★★★",
+      "bought": 200
+    },
+    {
+      "id": 16,
+      "title": "Hot Air Balloon Ride",
+      "image": "https://img.grouponcdn.com/deal/2HpwDRTcaPB4snLGrnvrLyoqFYdD/2H-5616x3744/v1/c349x211.webp",
+      "description": "Enjoy breathtaking views on a hot air balloon ride",
+      "price": "$180",
+      "rating": "★★★★★",
+      "bought": 180
+    },
+    {
+      "id": 17,
+      "title": "Virtual Reality Gaming Session",
+      "image": "https://img.grouponcdn.com/deal/3jLCcCEya3orc5asGeYMTV2WZwLk/3j-2048x1229/v1/c349x211.webp",
+      "description": "Experience cutting-edge virtual reality gaming",
+      "price": "$50",
+      "rating": "★★★★",
+      "bought": 500
+    },
+    {
+      "id": 18,
+      "title": "Culinary Tour",
+      "image": "https://img.grouponcdn.com/deal/2xN3WQhAGyf7JjLTTDzwA2CnLraf/2x-836x502/v1/c349x211.webp",
+      "description": "Explore the city's best culinary delights with a local guide",
+      "price": "$120",
+      "rating": "★★★★",
+      "bought": 300
+    },
+    {
+      "id": 19,
+      "title": "Escape Room Challenge",
+      "image": "https://img.grouponcdn.com/metro_draft_service/3Vm5NyHQPsErioq4G55NQZvjueWf/3V-6720x4480/v1/c349x211.webp",
+      "description": "Work together to solve puzzles and escape the room",
+      "price": "$80",
+      "rating": "★★★★★",
+      "bought": 400
+    },
+    {
+      "id": 20,
+      "title": "Personalized Shopping Experience",
+      "image": "https://img.grouponcdn.com/deal/33JAtjMqQPf721xMqQF2Nxr8VWMn/33-960x576/v1/c349x211.webp",
+      "description": "Enjoy a personalized shopping session with a personal stylist",
+      "price": "$150",
+      "rating": "★★★★",
+      "bought": 200
+    },
+    {
+      "id": 21,
+      "title": "Gym Membership",
+      "image": "https://img.grouponcdn.com/metro_draft_service/engr1ak784qEVwYbAQ4mNKu2dw2/en-1169x935/v1/c349x211.webp",
+      "description": "Get fit with a 3-month gym membership",
+      "price": "$120",
+      "rating": "★★★★",
+      "bought": 350
+    },
+    {
+      "id": 22,
+      "title": "Virtual Cooking Class",
+      "image": "https://img.grouponcdn.com/deal/2m1gkK2bh46Bte48AjCh2y7LSvYR/2m-2000x1333/v1/c349x211.webp",
+      "description": "Learn to cook from the comfort of your own kitchen",
+      "price": "$50",
+      "rating": "★★★★★",
+      "bought": 600
+    },
+    {
+      "id": 23,
+      "title": "Hiking Adventure",
+      "image": "https://img.grouponcdn.com/metro_draft_service/2kUUD1kBubW3jwmsPY5QeHCTyZNy/2k-960x720/v1/c349x211.webp",
+      "description": "Explore scenic trails on a guided hiking tour",
+      "price": "$70",
+      "rating": "★★★★",
+      "bought": 400
+    },
+    {
+      "id": 24,
+      "title": "Language Course",
+      "image": "https://img.grouponcdn.com/deal/2PuSthg3Fq4CctbmeVsEuZprvTVa/2P-5125x3450/v1/c349x211.webp",
+      "description": "Learn a new language with interactive online lessons",
+      "price": "$100",
+      "rating": "★★★★★",
+      "bought": 300
+    },
+    {
+      "id": 25,
+      "title": "DJ Lessons",
+      "image": "https://img.grouponcdn.com/metro_draft_service/3e8nfYtaQTpBexRPWoBmXHAj6kaf/3e-2048x1367/v1/c349x211.webp",
+      "description": "Master the art of DJing with professional lessons",
+      "price": "$80",
+      "rating": "★★★★",
+      "bought": 250
+    },
+    {
+      "id": 26,
+      "title": "Luxury Spa Package",
+      "image": "https://img.grouponcdn.com/metro_draft_service/Ssdr6jpcLbdCHq68veNFYGEBm2Q/Ss-2560x1708/v1/c349x211.webp",
+      "description": "Indulge in a luxurious spa experience with massages and facials",
+      "price": "$200",
+      "rating": "★★★★★",
+      "bought": 150
+    },
+    {
+      "id": 27,
+      "title": "Concert Tickets for Two",
+      "image": "https://img.grouponcdn.com/deal/3PHcqhFfJgAiauBkcTg2QcbT2bBi/3P-700x420/v1/c349x211.webp",
+      "description": "Enjoy a live concert with a friend",
+      "price": "$120",
+      "rating": "★★★★",
+      "bought": 350
+    },
+    {
+      "id": 28,
+      "title": "Scuba Diving Adventure",
+      "image": "https://img.grouponcdn.com/deal/QyNUe4txmNKwg7vAxfEFZRx2bBB/Qy-1600x960/v1/c349x211.webp",
+      "description": "Explore underwater worlds on a scuba diving trip",
+      "price": "$300",
+      "rating": "★★★★★",
+      "bought": 100
+    },
+    {
+      "id": 29,
+      "title": "Family Fun Package",
+      "image": "https://img.grouponcdn.com/deal/3Dh2HfNL7Cf7pW9A3QNd67hxTHAV/3D-700x420/v1/c349x211.webp",
+      "description": "Enjoy a day of family-friendly activities",
+      "price": "$150",
+      "rating": "★★★★",
+      "bought": 500
+    },
+    {
+      "id": 30,
+      "title": "Cooking Class",
+      "image": "https://img.grouponcdn.com/deal/3FrLdh1xEFaexPEqSTfffZQUqDhT/3F-2000x1333/v1/c349x211.webp",
+      "description": "Learn to cook delicious meals with expert chefs",
+      "price": "$70",
+      "rating": "★★★★★",
+      "bought": 200
+    },
+    {
+      "id": 31,
+      "title": "Fitness Bootcamp",
+      "image": "https://img.grouponcdn.com/deal/4E8aLw2pY6keEPZYfKDst6DD9JHu/4E-1200x801/v1/c349x211.webp",
+      "description": "Intensive fitness training program to get in shape",
+      "price": "$100",
+      "rating": "★★★★",
+      "bought": 300
+    },
+    {
+      "id": 32,
+      "title": "Couples Massage",
+      "image": "https://img.grouponcdn.com/deal/bK7vpbjk1qujZj8PJCDq/cT-7517x4916/v1/c349x211.webp",
+      "description": "Relax and unwind with a soothing couples massage",
+      "price": "$120",
+      "rating": "★★★★★",
+      "bought": 250
+    },
+    {
+      "id": 33,
+      "title": "Golf Lesson",
+      "image": "https://img.grouponcdn.com/iam/ZBDxyCoh6Ga2MbBMr7A8wBzB1kY/ZB-2048x1228/v1/c349x211.webp",
+      "description": "Improve your golf skills with personalized lessons",
+      "price": "$80",
+      "rating": "★★★★",
+      "bought": 400
+    },
+    {
+      "id": 34,
+      "title": "Winery Tour",
+      "image": "https://img.grouponcdn.com/deal/2mPWcYop5iNss4zvgTD4Pw1rq11d/2m-320x240/v1/c349x211.webp",
+      "description": "Visit local wineries and taste a variety of wines",
+      "price": "$60",
+      "rating": "★★★★★",
+      "bought": 600
+    },
+    {
+      "id": 35,
+      "title": "Sailing Adventure",
+      "image": "https://img.grouponcdn.com/deal/gL8DeCw2iMXRfpqCPyVUEa12LTW/gL-2048x1228/v1/c349x211.webp",
+      "description": "Set sail on a relaxing sailing trip",
+      "price": "$200",
+      "rating": "★★★★",
+      "bought": 150
+    },
+    {
+      "id": 36,
+      "title": "Stand-Up Comedy Show",
+      "image": "https://img.grouponcdn.com/metro_draft_service/13c4gNbGRdHxjTvgk41fyXHnxbs/13-4000x2666/v1/c349x211.webp",
+      "description": "Laugh out loud at a live stand-up comedy show",
+      "price": "$40",
+      "rating": "★★★★★",
+      "bought": 800
+    },
+    {
+      "id": 37,
+      "title": "Historical Walking Tour",
+      "image": "https://img.grouponcdn.com/bynder/35caZbWY2HjqsZm4PVJ5VkeY82Yq/35-2048x1229/v1/c349x211.webp",
+      "description": "Discover the city's rich history with a guided walking tour",
+      "price": "$25",
+      "rating": "★★★★",
+      "bought": 1000
+    },
+    {
+      "id": 38,
+      "title": "Pottery Workshop",
+      "image": "https://img.grouponcdn.com/bynder/27urbQD7CiEHJXV7YjFVjhUDxxq1/27-2048x1229/v1/c349x211.webp",
+      "description": "Get creative with a hands-on pottery workshop",
+      "price": "$60",
+      "rating": "★★★★★",
+      "bought": 500
+    },
+    {
+      "id": 39,
+      "title": "Private Yoga Session",
+      "image": "https://img.grouponcdn.com/deal/4DNBFDkZzWsSuioVCs3vhAN8YtTr/4D-2000x1200/v1/c349x211.webp",
+      "description": "Relax and rejuvenate with a private yoga session",
+      "price": "$80",
+      "rating": "★★★★",
+      "bought": 300
+    },
+    {
+      "id": 40,
+      "title": "Escape Room Experience for Four",
+      "image": "https://img.grouponcdn.com/pwa_test/VgLB1vLs5bd5h4MFZ2GUA6RTnv1/Vg-720x480/v1/c349x211.webp",
+      "description": "Challenge your friends in an exciting escape room adventure",
+      "price": "$100",
+      "rating": "★★★★★",
+      "bought": 200
+    }
+  ]
+}
