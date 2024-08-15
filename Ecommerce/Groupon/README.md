@@ -18,3 +18,5 @@ This React-based frontend project is designed to provide a user-friendly experie
 .Redux: For state management (if used).
 .Axios: For HTTP requests (if used).
 CSS Modules : For styling (Chakra UI).
+
+**live link** :https://66806e76556142773569a1f3--adorable-flan-42fc25.netlify.app/
